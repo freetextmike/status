@@ -1,0 +1,13 @@
+{
+  "port": 80,
+  "bind": "0.0.0.0",
+  "servers": [
+    {"id": 0, "name": "Server A", "host": "127.0.0.1","man_port": 7656},
+    {"id": 1, "name": "Server B", "host": "127.0.0.1","man_port": 6756}
+  ],
+  "username": "admin",
+  "password": "CHANGE THIS - DO NOT USE ANY DEFAULT HERE",
+  "web": {
+    "dateFormat": "HH:mm - DD.MM.YY"
+  }
+}
