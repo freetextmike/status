@@ -9,5 +9,4 @@ npm install sqlite3 --unsafe-per
 npm install
 npm run build
 
-cd openvpn-status
 
