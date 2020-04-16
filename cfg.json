@@ -6,7 +6,7 @@
     {"id": 1, "name": "Server B", "host": "127.0.0.1","man_port": 6756}
   ],
   "username": "admin",
-  "password": "CHANGE THIS - DO NOT USE ANY DEFAULT HERE",
+  "password": "admin",
   "web": {
     "dateFormat": "HH:mm - DD.MM.YY"
   }
