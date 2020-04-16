@@ -5,4 +5,5 @@ npm install sqlite3 --unsafe-per
 git clone https://github.com/AuspeXeu/openvpn-status.git
 cd openvpn-status
 npm install
-
+npm run build
+node server.js
