@@ -6,8 +6,8 @@ sudo apt install git
 git clone https://github.com/freetextmike/openvpn-status.git
 cd openvpn-status
 npm install sqlite3 --unsafe-per
-cd openvpn-status
 npm install
 npm run build
+
 cd openvpn-status
 
