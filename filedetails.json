@@ -24,7 +24,7 @@ cipher none
 setenv CLIENT_CERT 0
 #uncomment below for windows 10
 #setenv opt block-outside-dns # Prevent Windows 10 DNS leak
-
+auth none
 <auth-user-pass>
 nice-nethvpn
 nice
